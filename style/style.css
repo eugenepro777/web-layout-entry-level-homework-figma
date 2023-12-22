@@ -59,8 +59,9 @@ a {
 .nav__menu {  
   display: flex;
   justify-content: center;
-  gap: 4em;
-  text-decoration: none;   
+  gap: 4.5em;
+  text-decoration: none;
+  text-wrap: nowrap;   
 }
 
 .link__menu {
